@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ,TID,Items,X
 1,101,NA,A,B,C,D,E
 2,102,NA,A,C,D
@@ -9,3 +10,17 @@
 8,108,NA,A,B,D
 9,109,NA,A,D
 10,110,NA,D,E
+||||||| 077398b
+=======
+,TID,Items,X
+1,101,NA,A,B,C,D,E
+2,102,NA,A,C,D
+3,103,NA,D,E
+4,104,NA,B,C,E
+5,105,NA,A,B,D,E
+6,106,NA,A,B
+7,107,NA,B,D,E
+8,108,NA,A,B,D
+9,109,NA,A,D
+10,110,NA,D,E
+>>>>>>> 96ea3af6caa430152316f102f878651b6d1a064d
