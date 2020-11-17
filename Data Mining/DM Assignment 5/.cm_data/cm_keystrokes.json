@@ -1,0 +1,39 @@
+{
+    "Q11.R": [
+        {
+            "operation": "DELETE",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Nov 17 2020 18:58:09",
+            "keyStrokeInfo": "",
+            "position": "1,8"
+        },
+        {
+            "operation": "PASTE",
+            "lines": 1,
+            "keyStrokeTimeStamp": "Tue Nov 17 2020 18:58:19",
+            "keyStrokeInfo": "E:\\DataScience_2019501119\\Data Mining\\DM Assignment 5",
+            "position": "1,8"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Nov 17 2020 18:58:21",
+            "keyStrokeInfo": "\\",
+            "position": "1,11"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Nov 17 2020 18:58:24",
+            "keyStrokeInfo": "\\",
+            "position": "1,34"
+        },
+        {
+            "operation": "TYPED",
+            "lines": 0,
+            "keyStrokeTimeStamp": "Tue Nov 17 2020 18:58:26",
+            "keyStrokeInfo": "\\",
+            "position": "1,47"
+        }
+    ]
+}
